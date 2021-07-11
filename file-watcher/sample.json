@@ -1,0 +1,14 @@
+{
+    "id": "test",
+    "bucketName": "bkt",
+    "fileName": "test",
+    "filePrefix": "test",
+    "cron": "",
+    "eventType": "cron",
+    "validations": [
+        {
+            "type": "filename",
+            "value": "xyz.txt"
+        }        
+    ]
+}
